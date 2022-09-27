@@ -1,3 +1,3 @@
 # vjezba
 
-ok druze
+ok druze...
