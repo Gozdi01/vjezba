@@ -1,1 +1,3 @@
 # vjezba
+
+ok druze
